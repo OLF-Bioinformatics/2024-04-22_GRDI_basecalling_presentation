@@ -36,6 +36,7 @@ baseDir="$HOME/my_basecall_folder"
 # Basecalling
 # Model can be selected automatically with more recent chemistries.
 # See: https://github.com/nanoporetech/dorado?tab=readme-ov-file#automatic-model-selection-complex
+# All available models can be listed by running "dorado download --list" from Dorado standalone
 dorado_model="dna_r10.4.1_e8.2_400bps_sup@v4.1.0"  #"dna_r9.4.1_e8_sup@v3.6"
 bc_kit="VSK-VMK004"
 
