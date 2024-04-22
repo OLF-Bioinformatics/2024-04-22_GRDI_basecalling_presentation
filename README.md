@@ -1,1 +1,1 @@
-Simple bash script to perform Nanopore basecalling using the Dorado basecall server.
+Simple bash scripts to perform Nanopore basecalling using the Dorado basecall server.
